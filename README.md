@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 I am Sivaram, a third year undergraduate pursuing Mathematics and Computing at IIT Kharagpur.
 
 #
-![visitors](https://visitor-badge.glitch.me/badge?page_id=siv2r)
 ![](https://img.shields.io/static/v1?label=OS&message=linux&color=important)
 ![](https://img.shields.io/static/v1?label=Distro&message=Ubuntu&color=success)
 ![](https://img.shields.io/static/v1?label=Editor&message=VSCode&color=informational)
