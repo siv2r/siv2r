@@ -5,7 +5,7 @@
 - 💬 Want to chat about Bitcoin, cryptography, or open-source in general? Don't hesitate to reach out!
 
 ### Connect with me:
-- Gmail &nbsp; &nbsp; &nbsp; : siv2ram@gmail.com
+- Gmail &nbsp; &nbsp; &nbsp;: siv2ram@gmail.com
 - Twitter &nbsp; &nbsp;: [@siv2r](https://twitter.com/siv2r)
 - LinkedIn : [My profile](https://www.linkedin.com/in/siv2ram/)
 ---
