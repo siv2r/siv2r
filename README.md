@@ -9,8 +9,15 @@
 - Twitter &nbsp; &nbsp;: [@siv2r](https://twitter.com/siv2r)
 - LinkedIn : [My profile](https://www.linkedin.com/in/siv2ram/)
 ---
-</br>
 
-### Blog posts
+### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+---
+</details>
+
+<details>
+  <summary>:zap: Recent Activity</summary>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+</details>
