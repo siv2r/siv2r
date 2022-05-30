@@ -22,5 +22,13 @@
 <details>
   <summary>:zap: Recent Activity</summary>
 <!--RECENT_ACTIVITY:start-->
+1. 💬 Commented on [#2](https://github.com/siv2r/secp256k1/pull/2#issuecomment-1138670137) in [siv2r/secp256k1](https://github.com/siv2r/secp256k1)
+2. ⭐ Starred [ansh/bionic-reading](https://github.com/ansh/bionic-reading)
+3. 💬 Commented on [#2](https://github.com/siv2r/secp256k1/pull/2#discussion_r880426181) in [siv2r/secp256k1](https://github.com/siv2r/secp256k1)
+4. 💬 Commented on [#2](https://github.com/siv2r/secp256k1/pull/2#discussion_r880138192) in [siv2r/secp256k1](https://github.com/siv2r/secp256k1)
+5. 💬 Commented on [#2](https://github.com/siv2r/secp256k1/pull/2#discussion_r879713974) in [siv2r/secp256k1](https://github.com/siv2r/secp256k1)
+<!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
+Last Updated: Monday, May 30th, 2022, 7:00:19 PM
+<!--RECENT_ACTIVITY:last_update_end-->
 </details>
