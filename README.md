@@ -21,6 +21,7 @@
 
 <details>
   <summary>:zap: Recent Activity</summary>
+  
 <!--RECENT_ACTIVITY:start-->
 1. 💬 Commented on [#2](https://github.com/siv2r/secp256k1/pull/2#issuecomment-1138670137) in [siv2r/secp256k1](https://github.com/siv2r/secp256k1)
 2. ⭐ Starred [ansh/bionic-reading](https://github.com/ansh/bionic-reading)
