@@ -4,7 +4,7 @@
 - 💖 Check out my open source contributions to Bitcoin [here](https://siv2r.notion.site/Bitcoin-Open-Source-siv2r-feaf8fc401fe4ff38e3d42000fd05e35).
 - 💬 Want to chat about Bitcoin, cryptography, or open-source in general? Don't hesitate to reach out!
 
-### Connect with me:
+### Connect with me
 - Gmail &nbsp; &nbsp;&nbsp;: siv2ram@gmail.com
 - Twitter &nbsp; &nbsp;: [@siv2r](https://twitter.com/siv2r)
 - LinkedIn : [My profile](https://www.linkedin.com/in/siv2ram/)
@@ -21,7 +21,7 @@
 
 <details>
   <summary>:zap: Recent Activity</summary>
-  
+
 <!--RECENT_ACTIVITY:start-->
 1. 💬 Commented on [#2](https://github.com/siv2r/secp256k1/pull/2#issuecomment-1138670137) in [siv2r/secp256k1](https://github.com/siv2r/secp256k1)
 2. ⭐ Starred [ansh/bionic-reading](https://github.com/ansh/bionic-reading)
