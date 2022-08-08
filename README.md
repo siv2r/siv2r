@@ -7,7 +7,7 @@
 ### Connect with me
 - Gmail &nbsp; &nbsp;&nbsp;: siv2ram@gmail.com
 - Twitter &nbsp; &nbsp;: [@siv2r](https://twitter.com/siv2r)
-- LinkedIn : [My profile](https://www.linkedin.com/in/siv2ram/)
+- LinkedIn : [My profile](https://www.linkedin.com/in/siv2r/)
 ---
 
 ### Latest Blog posts
