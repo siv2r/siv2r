@@ -12,10 +12,8 @@
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Schnorr Batch Verification [libsecp256k1]](https://siv2r.hashnode.dev/schnorr-batch-verification-libsecp256k1)
 - [Summer of Bitcoin: Week 1 and 2](https://siv2r.substack.com/p/summer-of-bitcoin-week-1-and-2)
 - [My Summer of Bitcoin Journey [2022]](https://siv2r.substack.com/p/my-summer-of-bitcoin-journey-2022)
-- [What exactly is the MECE principle?](https://siv2r.hashnode.dev/what-exactly-is-the-mece-principle)
 - [Welcome on Board!](https://siv2r.substack.com/p/coming-soon)
 <!-- BLOG-POST-LIST:END -->
 ---
