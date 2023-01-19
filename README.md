@@ -12,10 +12,11 @@
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Unmasking the Birthday Attack: A Mathematical Analysis](https://siv2r.substack.com/p/unmasking-the-birthday-attack-a-mathematical)
 - [Schnorr Batch Verification [libsecp256k1]](https://siv2r.hashnode.dev/schnorr-batch-verification-libsecp256k1)
+- [Summer of Bitcoin: Week 1 and 2](https://siv2r.substack.com/p/summer-of-bitcoin-week-1-and-2)
+- [My Summer of Bitcoin Journey [2022]](https://siv2r.substack.com/p/my-summer-of-bitcoin-journey-2022)
 - [What exactly is the MECE principle?](https://siv2r.hashnode.dev/what-exactly-is-the-mece-principle)
-- [Big Integer Arithmetic in C - Part 1](https://siv2r.hashnode.dev/big-integer-arithmetic-in-c-part-1)
-- [Discrete Log Problem: Can we derive the Private Key?](https://siv2r.hashnode.dev/discrete-log-problem-can-we-derive-the-private-key)
 <!-- BLOG-POST-LIST:END -->
 ---
 </details>
