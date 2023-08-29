@@ -16,6 +16,7 @@
 - [Bitcoin Red-Bulled: Batch Verification&#39;s Arrival](https://siv2r.substack.com/p/bitcoin-red-bulled-batch-verifications)
 - [Summer of Bitcoin: Week 1 and 2](https://siv2r.substack.com/p/summer-of-bitcoin-week-1-and-2)
 - [My Summer of Bitcoin Journey [2022]](https://siv2r.substack.com/p/my-summer-of-bitcoin-journey-2022)
+- [What exactly is the MECE principle?](https://siv2r.hashnode.dev/what-exactly-is-the-mece-principle)
 <!-- BLOG-POST-LIST:END -->
 ---
 </details>
