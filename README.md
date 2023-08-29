@@ -1,7 +1,7 @@
 ### Hello there, I am Sivaram - aka siv2r
-- 📖 Fourth-year undergraduate at IIT Kharagpur, majoring in Mathematics and Computing.
+- 🎓 Class of 2023 graduate from IIT Kharagpur with a degree in Mathematics and Computing.
 - 🐰 Going down the rabbit hole of cryptography and its applications to ₿itcoin.
-- 💖 Check out my open source contributions to Bitcoin [here](https://siv2r.notion.site/Bitcoin-Open-Source-siv2r-feaf8fc401fe4ff38e3d42000fd05e35).
+- 💖 Check out my open-source contributions to Bitcoin [here](https://siv2r.notion.site/Bitcoin-Open-Source-siv2r-feaf8fc401fe4ff38e3d42000fd05e35).
 - 💬 Want to chat about Bitcoin, cryptography, or open-source in general? Don't hesitate to reach out!
 
 ### Connect with me
@@ -13,7 +13,6 @@
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Unmasking the Birthday Attack: A Mathematical Analysis](https://siv2r.substack.com/p/unmasking-the-birthday-attack-a-mathematical)
-- [Schnorr Batch Verification [libsecp256k1]](https://siv2r.hashnode.dev/schnorr-batch-verification-libsecp256k1)
 - [Bitcoin Red-Bulled: Batch Verification&#39;s Arrival](https://siv2r.substack.com/p/bitcoin-red-bulled-batch-verifications)
 - [Summer of Bitcoin: Week 1 and 2](https://siv2r.substack.com/p/summer-of-bitcoin-week-1-and-2)
 - [My Summer of Bitcoin Journey [2022]](https://siv2r.substack.com/p/my-summer-of-bitcoin-journey-2022)
