@@ -19,8 +19,5 @@ Want to chat cryptography, collaborate, or recommend a good novel? I'd love to h
 ---
 
 ### Latest Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [What exactly is the MECE principle?](https://siv2r.hashnode.dev/what-exactly-is-the-mece-principle)
-- [Big Integer Arithmetic in C - Part 1](https://siv2r.hashnode.dev/big-integer-arithmetic-in-c-part-1)
-- [Discrete Log Problem: Can we derive the Private Key?](https://siv2r.hashnode.dev/discrete-log-problem-can-we-derive-the-private-key)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POSTS:START -->
+<!-- BLOG-POSTS:END -->

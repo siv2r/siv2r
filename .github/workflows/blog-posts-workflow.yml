@@ -1,0 +1,32 @@
+name: Update README with Latest Blogs
+
+on:
+  schedule:
+    - cron: '0 0 1 * *'  # Runs at midnight on the 1st day of every month
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install feedparser
+
+      - name: Update README
+        run: python rss_update.py
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update latest blog posts" || echo "No changes to commit"
+          git push
