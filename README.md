@@ -1,13 +1,21 @@
 ### Hello there, I am Sivaram - aka siv2r
-- 📖 Fourth-year undergraduate at IIT Kharagpur, majoring in Mathematics and Computing.
-- 🐰 Going down the rabbit hole of cryptography and its applications to ₿itcoin.
-- 💖 Check out my open source contributions to Bitcoin [here](https://siv2r.notion.site/Bitcoin-Open-Source-siv2r-feaf8fc401fe4ff38e3d42000fd05e35).
-- 💬 Want to chat about Bitcoin, cryptography, or open-source in general? Don't hesitate to reach out!
+I'm a cryptography engineer currently working on libsecp256k1, the library powering Bitcoin's digital signatures. Most days, you'll find me implementing or reviewing cryptographic protocols like [FROST Signing](https://github.com/siv2r/bip-frost-signing), [ChillDKG](https://github.com/BlockstreamResearch/bip-frost-dkg/commits/master?author=siv2r), [Schnorr adaptor signatures](https://github.com/BlockstreamResearch/secp256k1-zkp/pull/299), and [Batch verification](https://github.com/bitcoin-core/secp256k1). In short, I spend my time making math do some pretty cool things. My work is supported through open-source developer grants, and right now, I'm grateful to be a [Spiral grantee](https://x.com/spiralbtc/status/1813233378042474520).
+
+I'm particularly fascinated by provable security in cryptography and am steadily developing my expertise in this area. Publishing a research paper is one of my big aspirations. Additionally, I run a Substack newsletter called [*Nonce Sense*](https://siv2r.substack.com/), where I simplify cryptographic concepts and share updates on my work.
+
+I graduated in 2023 with an Integrated Masters (BS + MS) in Mathematics and Computing from [IIT Kharagpur](https://www.iitkgp.ac.in/). Outside of work, you’ll likely find me lifting weights, binge-reading a novel, or daydreaming about playing basketball more often.
+
+---
 
 ### Connect with me
-- Gmail &nbsp; &nbsp;&nbsp;: siv2ram@gmail.com
-- Twitter &nbsp; &nbsp;: [@siv2r](https://twitter.com/siv2r)
-- LinkedIn : [My profile](https://www.linkedin.com/in/siv2ram/)
+Want to chat cryptography, collaborate, or recommend a good novel? I'd love to hear from you!
+
+<table>
+  <tr><td>Email</td><td>siv2ram@gmail.com</td></tr>
+  <tr><td>Twitter</td><td><a href="https://twitter.com/siv2r">@siv2r</a></td></tr>
+  <tr><td>LinkedIn</td><td><a href="https://www.linkedin.com/in/siv2ram/">My profile</a></td></tr>
+</table>
+
 ---
 
 ### Latest Blog posts
@@ -16,20 +24,3 @@
 - [Big Integer Arithmetic in C - Part 1](https://siv2r.hashnode.dev/big-integer-arithmetic-in-c-part-1)
 - [Discrete Log Problem: Can we derive the Private Key?](https://siv2r.hashnode.dev/discrete-log-problem-can-we-derive-the-private-key)
 <!-- BLOG-POST-LIST:END -->
----
-</details>
-
-<details>
-  <summary>:zap: Recent Activity</summary>
-
-<!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#2](https://github.com/siv2r/secp256k1/pull/2#issuecomment-1138670137) in [siv2r/secp256k1](https://github.com/siv2r/secp256k1)
-2. ⭐ Starred [ansh/bionic-reading](https://github.com/ansh/bionic-reading)
-3. 💬 Commented on [#2](https://github.com/siv2r/secp256k1/pull/2#discussion_r880426181) in [siv2r/secp256k1](https://github.com/siv2r/secp256k1)
-4. 💬 Commented on [#2](https://github.com/siv2r/secp256k1/pull/2#discussion_r880138192) in [siv2r/secp256k1](https://github.com/siv2r/secp256k1)
-5. 💬 Commented on [#2](https://github.com/siv2r/secp256k1/pull/2#discussion_r879713974) in [siv2r/secp256k1](https://github.com/siv2r/secp256k1)
-<!--RECENT_ACTIVITY:end-->
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 30th, 2022, 7:18:34 PM
-<!--RECENT_ACTIVITY:last_update_end-->
-</details>
