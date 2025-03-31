@@ -1,14 +1,15 @@
+import requests
 import feedparser
 
 RSS_URL = "https://siv2r.substack.com/feed"
+
 feed = feedparser.parse(RSS_URL)
 # Get the latest 5 posts
 posts = feed.entries[:5]
-
 # Generate markdown list for posts
 blog_md = ""
-for post in posts:
-    blog_md += f"- [{post.title}]({post.link})\n"
+for i, post in enumerate(posts):
+    blog_md += f"{i+1}. [{post.title}]({post.link})\n"
 
 # Read the current README.md content
 with open("README.md", "r", encoding="utf-8") as file:
@@ -36,3 +37,6 @@ else:
 # Write the updated README back to file
 with open("README.md", "w", encoding="utf-8") as file:
     file.write(updated_readme)
+
+print("Added the following blogs to README:")
+print(f"{blog_md}")

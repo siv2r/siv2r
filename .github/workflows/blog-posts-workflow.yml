@@ -2,7 +2,7 @@ name: Update README with Latest Blogs
 
 on:
   schedule:
-    - cron: '0 0 1 * *'  # Runs at midnight on the 1st day of every month
+    - cron: '0 0 1 * *'  # Runs at midnight UTC on the 1st day of every month
   workflow_dispatch:
 
 jobs:

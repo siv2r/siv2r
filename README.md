@@ -18,6 +18,12 @@ Want to chat cryptography, collaborate, or recommend a good novel? I'd love to h
 
 ---
 
-### Latest Blog posts
+### Latest blog posts
 <!-- BLOG-POSTS:START -->
+1. [Quarterly Progress Report #3](https://siv2r.substack.com/p/quarterly-progress-report-3)
+2. [Quarterly Progress Report #2](https://siv2r.substack.com/p/quarterly-progress-report-2)
+3. [Quarterly Progress Report #1](https://siv2r.substack.com/p/quarterly-progress-report-1)
+4. [Unmasking the Birthday Attack: A Mathematical Analysis](https://siv2r.substack.com/p/unmasking-the-birthday-attack-a-mathematical)
+5. [Bitcoin Red-Bulled: Batch Verification's Arrival](https://siv2r.substack.com/p/bitcoin-red-bulled-batch-verifications)
+
 <!-- BLOG-POSTS:END -->
