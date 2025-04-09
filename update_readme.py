@@ -1,5 +1,6 @@
 import requests
 import feedparser
+import json
 
 RSS_URL = "https://siv2r.substack.com/feed"
 
@@ -40,3 +41,8 @@ with open("README.md", "w", encoding="utf-8") as file:
 
 print("Added the following blogs to README:")
 print(f"{blog_md}")
+
+# Dump RSS feed to JSON file
+with open("rss_feed.json", "w", encoding="utf-8") as file:
+    json.dump(feed.entries, file, ensure_ascii=False, indent=4)
+print("Dumped RSS feed entries to rss_feed.json")

@@ -14,6 +14,7 @@ Want to chat cryptography, collaborate, or recommend a good novel? I'd love to h
   <tr><td>Email</td><td>siv2ram@gmail.com</td></tr>
   <tr><td>Twitter</td><td><a href="https://twitter.com/siv2r">@siv2r</a></td></tr>
   <tr><td>LinkedIn</td><td><a href="https://www.linkedin.com/in/siv2ram/">My profile</a></td></tr>
+  <tr><td>Schedule a chat</td><td><a href="https://calendar.notion.so/meet/sivaramd/6tn84l3x">Book time with me</a></td></tr>
 </table>
 
 ---
