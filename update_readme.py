@@ -1,4 +1,3 @@
-import requests
 import feedparser
 import json
 
