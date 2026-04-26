@@ -1,11 +1,16 @@
+#!/usr/bin/env python3
 import feedparser
 import json
+import sys
 
 RSS_URL = "https://siv2r.substack.com/feed"
 
 feed = feedparser.parse(RSS_URL)
+if feed.bozo and feed.bozo_exception is not None:
+    raise feed.bozo_exception
 # Get the latest 5 posts
 posts = feed.entries[:5]
+assert(len(posts) > 0), "No posts found in the RSS feed"
 # Generate markdown list for posts
 blog_md = ""
 for i, post in enumerate(posts):

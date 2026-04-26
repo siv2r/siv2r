@@ -14,12 +14,16 @@ Want to chat cryptography, collaborate, or recommend a good novel? I'd love to h
   <tr><td>Email</td><td>siv2ram@gmail.com</td></tr>
   <tr><td>Twitter</td><td><a href="https://twitter.com/siv2r">@siv2r</a></td></tr>
   <tr><td>LinkedIn</td><td><a href="https://www.linkedin.com/in/siv2ram/">My profile</a></td></tr>
-  <tr><td>Schedule a chat</td><td><a href="https://calendar.notion.so/meet/sivaramd/6tn84l3x">Book time with me</a></td></tr>
 </table>
 
 ---
 
 ### Latest blog posts
 <!-- BLOG-POSTS:START -->
+1. [Quarterly Progress Report #4](https://siv2r.substack.com/p/quarterly-progress-report-4)
+2. [Quarterly Progress Report #3](https://siv2r.substack.com/p/quarterly-progress-report-3)
+3. [Quarterly Progress Report #2](https://siv2r.substack.com/p/quarterly-progress-report-2)
+4. [Quarterly Progress Report #1](https://siv2r.substack.com/p/quarterly-progress-report-1)
+5. [Unmasking the Birthday Attack: A Mathematical Analysis](https://siv2r.substack.com/p/unmasking-the-birthday-attack-a-mathematical)
 
 <!-- BLOG-POSTS:END -->
